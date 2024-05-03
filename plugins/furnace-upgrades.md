@@ -36,7 +36,7 @@ layout:
 
 `furnaceupgrades.use` - This is the **unique permission**. required for all players to upgrade furnaces
 
-### The config file:
+### Configuration
 
 ```json
 {
