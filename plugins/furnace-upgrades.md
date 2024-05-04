@@ -26,6 +26,7 @@ layout:
 * Automatic fuel calc based on the upraded oven attributes;
 * Now **BBQ** and **Campfire** can also be improved;
 * Option so that only the furnace owner can upgrade it;
+* Option so that only owner's teammates can upgrade it;
 * A new completely redesigned UI;
 
 ### Demonstration
@@ -42,6 +43,7 @@ layout:
 {
   "General Settings": {
     "Only the owner can upgrade the furnace": true,
+    "Only teammates can upgrade the furnace": false,
     "Keep attributes when removing": true,
     "Maintain the same speed for split items.": false
   },
@@ -303,7 +305,7 @@ layout:
   "Version": {
     "Major": 2,
     "Minor": 0,
-    "Patch": 1
+    "Patch": 3
   }
 }
 ```

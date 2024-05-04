@@ -8,3 +8,4 @@
 
 * [Furnace Upgrades](plugins/furnace-upgrades.md)
 * [TC Levels](plugins/tc-levels.md)
+* [Military Airfield](plugins/military-airfield.md)
